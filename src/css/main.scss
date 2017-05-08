@@ -76,6 +76,11 @@
 			}
 		}
 	}
+	body.ios &,
+	body.android &,
+	body.windows & {
+		display: none;
+	}
 }
 
 .content__labels {
